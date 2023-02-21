@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "category_id": "01",
+      "name": "Spring Framework 6: Beginner to Guru",
+      "seller": "Andrio",
+      "price": 920,
+      "ratings": 5,
+      "img": "https://aksoytolga.com/wp-content/uploads/2020/07/Spring_Banner.png",
+      "description": "Learn All Things Spring! Spring Framework 6, Spring Boot 3, Spring MVC, Spring Data JPA, Spring Security, Spring WebFlux",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "category_id": "02",
+      "name": "Unreal Engine 5: One Course Solution For Niagara VFX",
+      "seller": "peter",
+      "price": 890,
+      "ratings": 5,
+      "img": "https://i.ytimg.com/vi/4GeRf5EED6o/maxresdefault.jpg",
+      "description": "Learn All Things Use Niagara to create stunning, game-ready VFX in Unreal Engine 5 through a step by step approach",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "category_id": "03",
+      "name": "Machine Learning A-Z™: Python & R in Data Science [2023]",
+      "seller": "garry",
+      "price": 990,
+      "ratings": 5,
+      "img": "https://www.atriainnovation.com/wp-content/uploads/2021/02/portada.jpg",
+      "description": "Artificial intelligence is growing exponentially. There is no doubt about that. Self-driving cars are clocking up millions of miles, IBM Watson is diagnosing patients better than armies of doctors and Google Deepmind's AlphaGo beat the World champion at Go - a game where intuition plays a key role. But the further AI advances, the more complex become the problems it needs to solve. And only Deep Learning can solve such complex problems and that's why it's at the heart of Artificial intelligence. ",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "category_id": "04",
+      "name": "The Complete Ethical Hacking Course",
+      "seller": "smith",
+      "price": 720,
+      "ratings": 5,
+      "img": "https://www.naukri.com/blog/content/images/2020/09/714512-ethical-hackingthinkstockphotos.jpg",
+      "description": "Protect yourself from hackers & cyberattacks. Learn penetration testing + build security and coding tools with Python.",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "category_id": "05",
+      "name": "CompTIA Pentest+ PT0-002",
+      "seller": "OAK Academy Team",
+      "price": 1200,
+      "ratings": 4,
+      "img": "https://cybersecuritylab.in/uploads/course/9c82280a7ea14ee3bbd399a4a979c956.jpg",
+      "description": "To Master IT, Learn IT from the Masters! Developed by a leading CompTIA Certified Trainer. Over 90% pass rate.",
+      "shipping": 49,
+      "quantity": 0
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "category_id": "06",
+      "name": "The Secrets of OSINT (Open-source Intelligence)",
+      "seller": "Serhi",
+      "price": 1238,
+      "ratings": 6,
+      "img": "https://www.knowbe4.com/hubfs/OSINT.png",
+      "description": "Become James Bond of the Internet and find out everything about anyone.Information is the king today. If you have it, you’ll be able to make the right decisions and win. If not, you will be taken advantage of and lose. It relates to any area of your life – business, work, family, relationship and, especially, security.",
+      "shipping": 19,
+      "quantity": 0
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "category_id": "07",
+      "name": "The Complete 2023 Web Development Bootcamp",
+      "seller": "Angela",
+      "price": 676,
+      "ratings": 4,
+      "img": "https://certifind.com/blog/wp-content/uploads/2017/11/dewlop.jpg",
+      "description": "This course was just completely overhauled to prepare students for the 2023 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+      "shipping": 15,
+      "quantity": 0
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "category_id": "08",
+      "name": "Android App Development Master Course with Java | Android",
+      "seller": "Mehmet ÖNGEL",
+      "price": 689,
+      "ratings": 5,
+      "img": "https://www.androiddeveloper.co.in/blog/wp-content/uploads/2016/03/Android-App-Development-2.jpg",
+      "description": "Android Java | Learn Android App Development java with Android Studio & Java to master your android development skills Due to its open-source nature, working with the Android platform necessitates constantly learning about the Android platform. ",
+      "shipping": 50,
+      "quantity": 0
+    },
+    {
+      "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+      "category_id": "09",
+      "name": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "seller": "Stepan",
+      "price": 760,
+      "ratings": 5,
+      "img": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltacbcd67685f3bad4/61b7ae9bf6adbe75ea5e17fa/blog-thumb-cloud-aws.png",
+      "description": "The AWS Certified Solutions Architect Professional certification is one of the most challenging exams. It requires some substantial hands-on and real-world experience for you to pass. This course is going to help you solidify the knowledge you already have and put it in perspective through the study of various solutions architectures and services. This course alone won't help you pass the exam. You need to invest a significant amount of your time reading the documentation when you have doubts. ",
+      "shipping": 46,
+      "quantity": 0
+    },
+    {
+      "id": "8424g06w-432t-5g5e-3443-5a4t2ct2ds73",
+      "category_id": "10",
+      "name": "The Complete DevOps Engineer Course 2.0 - Java & Kubernetes",
+      "seller": "Syed Raza",
+      "price": 840,
+      "ratings": 5,
+      "img": "https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg",
+      "description": "Are you ready to become a DevOps Engineer and enjoy a fascinating high paying career? Or maybe you just want to learn additional tips and techniques taking to a whole new level? Welcome to The Complete DevOps Engineer Course 2.0 - Java & Kubernetes In this introductory course, you'll learn and practice essential computer science concepts using the Java programming language. You'll learn about Object Oriented Programming, a technique that allows you to use code written by other programmers in your own programs. You'll put your new Java programming skills to the test by solving real-world problems faced by software engineers.",
+      "shipping": 46,
+      "quantity": 0
+    }
+  ]
+  
+  ]
